@@ -1,0 +1,15 @@
+
+
+
+.letsTalk:hover{
+    text-decoration: underline;
+}
+
+.arrowHandler{
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+.letsTalk:hover > .arrowHandler{
+    margin-left: 20px;
+}

@@ -1,0 +1,43 @@
+.socialMedia{
+    /* bottom:0;
+    right:0; */
+    /* border-radius: 50%; */
+    bottom:-380px;
+    right:0;
+    background-color: rgba(121, 121, 199, 0.719);
+    transition-property:all;
+    transition-duration: 0.5s;
+}
+
+
+
+.employee:hover  .socialMedia{
+    bottom:0;
+    right:0;
+}
+
+
+
+
+
+
+
+.alice-carousel__prev-btn-wrapper{
+    text-align: end;
+}
+
+.alice-carousel__next-btn-wrapper{
+    text-align: start;
+}
+
+
+
+
+.alice-carousel__stage > li{
+    /* width: 300px !important; */
+}
+
+
+.carousel-container::-webkit-scrollbar{
+    display: none;
+}

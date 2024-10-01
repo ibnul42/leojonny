@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+@font-face {
+    font-family:Gotham Pro Regular;
+    src: url(./font/Gotham_Pro_Regular.ttf) format("truetype");
+  }
+#root{
+    font-family: Gotham Pro Regular;
+}
