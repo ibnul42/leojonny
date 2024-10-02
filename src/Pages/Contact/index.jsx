@@ -28,9 +28,9 @@ const budgets = [
 ]
 
 const items = [
-    { id: 1, icon: "/Assets/Icons/smartphone.svg", name: '+15616933947' },
-    { id: 2, icon: "/Assets/Icons/envelope.svg",  name:'contact@LeoJonny.info' },
-    { id: 3, icon: "/Assets/Icons/home.svg", name:"2113 EVERGLADES LANE #1045, THE VILLAGES, FLORIDA, 32163"}
+    { id: 1, icon: "/Assets/Icons/smartphone.svg", name: '+18564370495' },
+    { id: 2, icon: "/Assets/Icons/envelope.svg",  name:'henryfdiaz8@gmail.com' },
+    { id: 3, icon: "/Assets/Icons/home.svg", name:"2210 Rutledge Ave, Orlando, FL 32817"}
   ]
 
 const Contact = () => {
